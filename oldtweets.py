@@ -8,7 +8,7 @@ beyond the latest 50
 
 This script will work if, and only if, you:
 
-1/ Install required libs (via pip -r requirements.txt)
+1/ Install required libs (via pip install -r requirements.txt)
 2/ go to dev.twitter.com, sign up with your account and create a new app
 (the details can be bogus, your app will be private)
 3/ copy the consumer key and secret from your app in a credentials file

@@ -6,7 +6,7 @@ OldTweets backs up (and deletes, if you so desire) all your tweets in separate f
 
 This script will work if, and only if, you:
 
-1. Install required libs (via pip -r requirements.txt)
+1. Install required libs (via pip install -r requirements.txt)
 2. go to [dev.twitter.com](http://dev.twitter.com), sign up with your account and create a new app (the details can be bogus, your app will be private)
 3. copy the consumer key and secret from your app in a credentials file
 4. go to "my access token" in the (righthand) menu of your app and copy the token and key in a credentials file (a credentials file is distributed with this script, as a sample. This file doesn't work)
